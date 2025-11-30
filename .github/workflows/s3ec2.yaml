@@ -1,3 +1,5 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: My template
 Resources:
   s3bucket:
     Type: AWS::S3::Bucket
