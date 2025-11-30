@@ -2,7 +2,7 @@ Resources:
   s3bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: my-uni-buc-name-1987686772345111666
+      BucketName: my-uni-buc-name-19876867723451116667
       AccessControl: Private
       VersioningConfiguration:
         Status: Enabled
